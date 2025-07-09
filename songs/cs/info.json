@@ -1,4 +1,8 @@
 {
-    "title":"Copy right songs",
-    "description":"enjoy your song"
+  "title": "CS Playlist",
+  "description": "Top CS hits collection",
+  "songs": [
+    "128-Dum Dum (Feat. Mika Singh).mp3",
+    "128-Ishq Mera (Feat. Monali Thakur).mp3"
+  ]
 }

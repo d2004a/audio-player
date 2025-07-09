@@ -1,4 +1,10 @@
 {
-    "title":"Non Copy right songs",
-    "description":"enjoy your song"
+  "title": "NCS Playlist",
+  "description": "Non-Copyrighted Songs",
+  "songs": [
+    "128-Laal Pari - House Mix.mp3",
+    "128-Ladki Deewani - Dance Track.mp3",
+    "128-Singham Again - Club Mix.mp3",
+    "128-Son Of Sardaar 2 - Theme.mp3"
+  ]
 }
